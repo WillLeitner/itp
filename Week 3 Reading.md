@@ -1,0 +1,2 @@
+# Chapter 1
+I never knew all of the information about 64 bits. I always see download options on Windows for 32 or 64, not knowing that this is what it was asking, if my PC used 64 bits or 32. There wasn't much specific information that I knew, just general concepts. I knew that a computer would need all sorts of special characters just to process writing in /n, rather than using that to code a new line. I just didn't know the exact process behind it.
