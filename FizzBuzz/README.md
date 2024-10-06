@@ -51,9 +51,8 @@ This is a little closer, kind of. Numbers are now being replaced, but only if th
 
 This would only replace multiples of 15 with FizzBuzz. I replaced the && with || and everything worked exactly the way it was supposed to.
 
-```for (let i = 1; i < 101; i++)```
-
 ```javascript
+for (let i = 1; i < 101; i++)
 {if (i % 3 !== 0 && i % 5 !== 0) {console.log(`${i}`)}
     else if (i % 3 === 0 && i % 5 === 0) {
         console.log('FizzBuzz') } 
