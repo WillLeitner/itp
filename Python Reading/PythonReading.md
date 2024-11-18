@@ -1,0 +1,8 @@
+# Chapter 1
+I knew a lot from this chapter, since it hasn't really departed from the principles of Java yet. I knew about syntax, parsing, debugging, all of that general programming stuff. I didn't know that there were multiple versions of Python, being Python 2 and 3. I kind of just thought that Python was an old language that has more or less stayed old and hasn't changed much in a while.
+# Chapter 3
+Once again, much of this chapter was familiar from Java. It's good to have it driven home that Python uses "print," not "console.log" since I've gotten so used to Java. I knew but didn't really fully comprehend the fact that variables are only called within their functions. I think this is something that created issues for me in the FizzBuzz series of assignments, where I'd try to console.log the valueof certain variables just to check if some things were working properly but I'd get error messages and panic. I now realize that these might have just been local variables and when the functions were done they stopped existing.
+# Chapter 5
+I didn't know what floor division was and I didn't know about the "pass" statement, which will definitely come in handy. Also, learning the "input" function is incredibly useful. Other than that, the concepts are still very similar to that of Java, so it all feels very comfortable so far.
+# Chapter 10
+I didn't really know much prior to this chapter. I knew - or at least could assume - that lists could be assigned to variables and that all of these functions were possible, I just didn't know how to do them. For example, the slice, append, and extend functions (along with all of the others), were completely foreign to me. 
