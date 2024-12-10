@@ -1,0 +1,58 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 6: expected '=' not found.
+    define bad ending = "sound/bad ending.mp3"
+               ^
+
+File "game/script.rpy", line 7: expected '=' not found.
+    define best ending = "sound/best ending.mp3"
+                ^
+
+File "game/script.rpy", line 351: expected end of line
+    play sound bad ending
+                   ^
+
+File "game/script.rpy", line 441: expected end of line
+    play sound bad ending
+                   ^
+
+File "game/script.rpy", line 737: expected end of line
+    play sound bad ending
+                   ^
+
+File "game/script.rpy", line 931: expected end of line
+    play sound bad ending
+                   ^
+
+File "game/script.rpy", line 965: expected end of line
+    play sound bad ending
+                   ^
+
+File "game/script.rpy", line 1089: expected end of line
+    play sound bad ending
+                   ^
+
+File "game/script.rpy", line 1241: expected end of line
+    play sound bad ending
+                   ^
+
+File "game/script.rpy", line 1375: expected end of line
+    play sound bad ending
+                   ^
+
+File "game/script.rpy", line 1403: expected end of line
+    play sound bad ending
+                   ^
+
+File "game/script.rpy", line 1473: expected end of line
+    play sound bad ending
+                   ^
+
+File "game/script.rpy", line 1501: expected end of line
+    play sound best ending
+                    ^
+
+Ren'Py Version: Ren'Py 7.8.3.24111502
+Tue Dec 10 02:06:37 2024

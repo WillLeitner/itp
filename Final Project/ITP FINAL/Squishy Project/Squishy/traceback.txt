@@ -1,0 +1,22 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/script.rpy", line 1248, in script
+    jump Settle
+ScriptError: could not find label 'Settle'.
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "game/script.rpy", line 1248, in script
+    jump Settle
+  File "/Users/willleitner/Desktop/ITP FINAL/renpy-7.8.3-sdk/renpy/ast.py", line 1699, in execute
+    rv = renpy.game.script.lookup(target)
+  File "/Users/willleitner/Desktop/ITP FINAL/renpy-7.8.3-sdk/renpy/script.py", line 1103, in lookup
+    raise ScriptError("could not find label '%s'." % str(original))
+ScriptError: could not find label 'Settle'.
+
+Darwin-22.6.0-arm64-arm-64bit arm64
+Ren'Py 7.8.3.24111502
+Squishy's Big Day 1.0
+Mon Dec  9 23:18:29 2024
